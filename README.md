@@ -1,6 +1,6 @@
 # PythonTech
 
-##Projecto final Integrador de curso de Talent Tech 
+## Projecto final Integrador de curso de Talent Tech 
 
 ##El Proyecto Final Integrador (PFI) consiste en el desarrollo de una aplicación Python, que utilizando la terminal o consola permita al usuario gestionar el inventario de una pequeña tienda o comercio.
 
