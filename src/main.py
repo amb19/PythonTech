@@ -1,5 +1,10 @@
+# ---------------- Variables  ---------------- #
+bienvenidad = "Bienvenido al sistema de Inventario"
+menu = "Menu de Opciones"
+Elegir = "Eliga una Opcion del 1 al 7 :"
 # ---------------- Menu de inicio  ---------------- #
-print("Bienvenido al sistema de Inventario\n Menu de Opciones\n")
+print("")
+print(f"{bienvenidad:^60}\n{menu:^60}\n")
 print("1- Registro de Productos")
 print("2- Consulta de Productos")
 print("3- Actualizacion de Productos")
@@ -8,7 +13,7 @@ print("5- Listado De Productos")
 print("6- Stock de Productos ")
 print("7- Salir\n")
 # ---------------- seleccion de Opcion  ---------------- #
-opcion = int(input("Eliga una Opcion del 1 al 7: "))
+opcion = int(input(f"{Elegir:^35}"))
 
 if opcion == 1:
     print(f"Ha seleccionado la opcion {opcion}: Registro")
