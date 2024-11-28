@@ -1,9 +1,11 @@
 # Pull request
 
-## descripcion del cambio
+## Para ser llenado al momento de realizar un Pull Request
 
-## ¿como se probaron los cambios?
+### Descripcion del(los) cambio(s)
 
-## ¿ Existe tickets o incidente relacionado?
+### ¿como se probaron los cambios?
 
-## otros comentarios
+### ¿Existe tickets o incidente relacionado?
+
+### Aporte otros comentarios que considere necesarios
